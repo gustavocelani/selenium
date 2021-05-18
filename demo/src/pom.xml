@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>selenium.example</groupId>
-    <artifactId>SeleniumDemo</artifactId>
+    <artifactId>demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
